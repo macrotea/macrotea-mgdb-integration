@@ -1,0 +1,1 @@
+mongod.exe -f mongodb.config -logappend -rest
